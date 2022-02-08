@@ -1,2 +1,2 @@
-# LIST
+# receipe
 EXAMPLE OF LIST IN HTML
